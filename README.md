@@ -12,38 +12,28 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [Sehgal Marble](https://github.com/WDK50/project-repo)**
-- 🌱 I’m learning **Next.js, TypeScript, and GraphQL**
-- 💬 Ask me about **JavaScript**, **React**, **Firebase**, and **UI/UX**
-- 📫 How to reach me: you@example.com
-- ⚡ Fun fact: I love building mini-games in my free time
+- 🔭 I’m currently working on [Sehgal Marble](https://github.com/WDK50/SehgalMarble)**
+- 🌱 I’m learning  **React Hooks, TypeScript, and Github Pages**
+- 💬 Ask me about **JavaScript**, **React**, **Firebase**, and **Tailwind CSS**
+- 📫 How to reach me: webdevkhawaja50@gmail.com
+- ⚡ Fun fact: I love building e-commerce websites in my free time
 
 ---
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 4. Languages & Tools                                       │
-  └─────────────────────────────────────────────────────────────┘
--->
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="36" />&nbsp;
-  <img alt="React" src="https://cdn.simpleicons.org/react" width="36" />&nbsp;
-<img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" width="36" />&nbsp;
 <img alt="HTML5" src="https://cdn.simpleicons.org/html5" width="36" />&nbsp;
+<img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" width="36" />&nbsp;
+<img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="36" />&nbsp;
+<img alt="React" src="https://cdn.simpleicons.org/react" width="36" />&nbsp;
+<img alt="Firebase" src="https://cdn.simpleicons.org/firebase" width="36" />&nbsp;
+<img alt="Git" src="https://cdn.simpleicons.org/git" width="36" />&nbsp;
 <img alt="GitHub" src="https://cdn.simpleicons.org/github" width="36" />&nbsp;
-  <img alt="Firebase" src="https://cdn.simpleicons.org/firebase" width="36" />&nbsp;
-  <img alt="Git" src="https://cdn.simpleicons.org/git" width="36" />&nbsp;
 </p>
 
 ---
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 5. GitHub Stats (optional)                                 │
-  └─────────────────────────────────────────────────────────────┘
--->
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -53,32 +43,21 @@
 
 ---
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 6. Pinned Projects                                         │
-  └─────────────────────────────────────────────────────────────┘
--->
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | 📁 [My Portfolio](https://github.com/WDK50/portfolio) | A modern React & Tailwind portfolio site | 🔗 |
-| 🛒 [Shop App](https://github.com/WDK50/shop-app) | MERN-stack e-commerce demo | 🔗 |
-| 🎮 [Mini Game](https://github.com/WDK50/mini-game) | A JavaScript canvas game | 🔗 |
+| 🛒 [Sehgal Marble](https://github.com/WDK50/SehgalMarble) | Dynamic E-commerce demo | 🔗 |
+| 🎮 [Filmazia](https://github.com/WDK50/InternInteeligence_Movie) | A TMDB API Movie Website| 🔗 |
 
 ---
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 7. Contact & Footer                                        │
-  └─────────────────────────────────────────────────────────────┘
--->
 ## 📫 How to Reach Me
 
-- ✉️ Email: you@example.com  
-- 💬 Discord: `YourName#1234`  
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- ✉️ Email: webdevkhawaja50@gmail.com  
+- 💬 Linkedin: (www.linkedin.com/in/khawaja-abdurrehman-9b7823325)  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House.
