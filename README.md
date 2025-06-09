@@ -1,34 +1,18 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 1. (Optional) Banner at top 960×200px                       │
-  └─────────────────────────────────────────────────────────────┘
--->
+
 <p align="center">
-  <img src="assets/banner.png" alt="Banner – Crafting seamless…." width="960" />
+  <img src="Lock.jpg" alt="Banner – Crafting seamless…." width="960" />
 </p>
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 2. Intro header                                            │
-  └─────────────────────────────────────────────────────────────┘
--->
+
 <h1 align="center">Hey there, I’m WDK50 👋</h1>
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle">🐦 Twitter</a> •
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-  <a href="mailto:you@example.com">✉️ Email</a>
+  <a href="www.linkedin.com/in/khawaja-abdurrehman-9b7823325">💼 LinkedIn</a> •
+  <a href="mailto:webdevkhawaja50@gmail.com">✉️ Email</a>
 </p>
 
----
-
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 3. About Me                                                │
-  └─────────────────────────────────────────────────────────────┘
--->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name](https://github.com/WDK50/project-repo)**
+- 🔭 I’m currently working on [Sehgal Marble](https://github.com/WDK50/project-repo)**
 - 🌱 I’m learning **Next.js, TypeScript, and GraphQL**
 - 💬 Ask me about **JavaScript**, **React**, **Firebase**, and **UI/UX**
 - 📫 How to reach me: you@example.com
@@ -45,13 +29,12 @@
 
 <p align="left">
   <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="36" />&nbsp;
-  <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript" width="36" />&nbsp;
   <img alt="React" src="https://cdn.simpleicons.org/react" width="36" />&nbsp;
-  <img alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs" width="36" />&nbsp;
-  <img alt="Node.js" src="https://cdn.simpleicons.org/node.js" width="36" />&nbsp;
+<img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" width="36" />&nbsp;
+<img alt="HTML5" src="https://cdn.simpleicons.org/html5" width="36" />&nbsp;
+<img alt="GitHub" src="https://cdn.simpleicons.org/github" width="36" />&nbsp;
   <img alt="Firebase" src="https://cdn.simpleicons.org/firebase" width="36" />&nbsp;
   <img alt="Git" src="https://cdn.simpleicons.org/git" width="36" />&nbsp;
-  <img alt="Figma" src="https://cdn.simpleicons.org/figma" width="36" />&nbsp;
 </p>
 
 ---
