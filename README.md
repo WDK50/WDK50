@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Lock.jpg" alt="Banner – Crafting seamless…." width="960" />
+  <img src="Linkedin Header.png" alt="Banner – Crafting seamless…." width="960" />
 </p>
 
 
